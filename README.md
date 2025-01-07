@@ -5,8 +5,8 @@
 ###
 
 <h1 align="left">👋 Hi, I'm Mubashir Bappi</h1>
-<h2 align="left">front-end developer</h2>
-###
+<h2 align="left">Front-end developer</h2>
+
 
 <p align="left">Welcome to my GitHub profile! I'm a passionate **front-end developer** who loves to create responsive, interactive, and user-friendly web applications.</p>
 
