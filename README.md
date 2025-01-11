@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">👋 Hi, I'm Mubashir Bappi</h1>
+<h1 align="left">👋 Hi, I'm Mubassir Bappi</h1>
 <h2 align="left">Front-end developer</h2>
 
 
