@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(3).png"  />
+  <img height="200" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png"  />
 </div>
 
 ###
