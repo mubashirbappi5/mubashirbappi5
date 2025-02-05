@@ -73,24 +73,16 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 
 <h2 align="left">My Stats</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirbappi5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&theme=react&hide_border=false" height="150" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=react&hide_border=false" height="150" alt="languages used" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=react-dark&hide_border=false&radius=16" height="300" alt="activity graph"/>
 </div>
-
-###
 
 <img src="https://raw.githubusercontent.com/mubashirbappi5/mubashirbappi5/output/snake.svg" alt="Snake animation" />
 
 ###
-###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&theme=react&hide_border=false" height="150" alt="streak stats"/>
-
-
-###
 
 <h2 align="left">Social Media</h2>
 
