@@ -88,7 +88,7 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 ### 🐍 Contribution Snake  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mubashirbappi5/mubashirbappi5/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/mubashirbappi5/mubashirbappi5/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 
