@@ -8,7 +8,10 @@
 <h2 align="left">Front-end developer</h2>
 
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate **front-end developer** who loves to create responsive, interactive, and user-friendly web applications.</p>
+<p align="left">Welcome to my GitHub profile!
+I'm a passionate front-end developer who loves building modern,
+responsive, interactive, and user-friendly web applications
+using React, Next.js, and cutting-edge web technologies. 🚀</p>
 
 ###
 
