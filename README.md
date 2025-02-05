@@ -69,7 +69,7 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
-###
+
 
 <h2 align="left">My Stats</h2>
 
