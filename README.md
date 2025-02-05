@@ -72,8 +72,10 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 
 
 ### 
-📊 GitHub Stats  
-###
+
+<h2 align="left">📊 GitHub Stats </h2>
+
+### 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&theme=react&hide_border=false" height="150" alt="streak stats"/>
