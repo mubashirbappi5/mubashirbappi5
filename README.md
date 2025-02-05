@@ -19,7 +19,7 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 
 ###
 
-<p align="left">✨ Breaking things since 2024... but fixing them like a pro!<br><br><br> 📚I'm currently learning backend development and advancing my React skills.<br><br>🎯 Goals: Master front-end development, thrive as a freelancer, and achieve my dream of becoming a Senior Developer by the end of 2025.<br><br>🎲 Fun fact: From coding to creating—my journey is just getting started!</p>
+<p align="left">✨ Breaking things since 2024... but fixing them like a pro!<br><br><br> 📚I'm currently learning backend development and advancing my React & Next.js skills. 🚀<br><br>🎯 Goals: Master front-end development, thrive as a freelancer, and achieve my dream of becoming a Senior Developer by the end of 2025.<br><br>🎲 Fun fact: From coding to creating—my journey is just getting started!</p>
 
 ###
 
