@@ -71,7 +71,7 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 </div>
 
 
-<h2 align="left">My Stats</h2>
+### 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&theme=react&hide_border=false" height="150" alt="streak stats"/>
@@ -79,9 +79,14 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=react-dark&hide_border=false&radius=16" height="300" alt="activity graph"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/mubashirbappi5/mubashirbappi5/output/snake.svg" alt="Snake animation" />
-
 ###
+
+### 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mubashirbappi5/mubashirbappi5/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 <h2 align="left">Social Media</h2>
