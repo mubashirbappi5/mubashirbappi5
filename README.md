@@ -85,6 +85,12 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 <img src="https://raw.githubusercontent.com/mubashirbappi5/mubashirbappi5/output/snake.svg" alt="Snake animation" />
 
 ###
+###
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&theme=react&hide_border=false" height="150" alt="streak stats"/>
+
+
+###
 
 <h2 align="left">Social Media</h2>
 
