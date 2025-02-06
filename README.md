@@ -78,7 +78,8 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 ### 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mubashirbappi5" alt="GitHub Streak" />
+  <<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5" alt="GitHub Streak Stats" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=react&hide_border=false" height="150" alt="languages used" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=react-dark&hide_border=false&radius=16" height="300" alt="activity graph"/>
