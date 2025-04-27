@@ -78,15 +78,25 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 ###
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&count_private=true&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=react&hide_border=false" height="150" alt="languages used" />
 
-   
-  <img src="https://nirzak-streak-stats.vercel.app?user=mubashirbappi5&theme=vue-dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph" />
+  <!-- Main GitHub Stats Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&count_private=true&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd&hide_border=true" alt="GitHub Stats" />
 
-  
+  <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=react-dark&hide_border=false&radius=16" height="300" alt="activity graph"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&bg_color=333333&title_color=FF914D&text_color=dddddd&hide_border=true" height="150" alt="Top Languages" />
+
+  <br />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=mubashirbappi5&background=333333&stroke=FF914D&ring=FF914D&fire=FF914D&currStreakNum=FFFFFF&currStreakLabel=FF914D&sideNums=FFFFFF&sideLabels=FF914D&dates=DDDDDD&hide_border=true" height="220" alt="Streak Graph" />
+
+  <br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&bg_color=333333&color=FF914D&line=FF914D&point=FFFFFF&area=true&hide_border=true" height="300" alt="Activity Graph"/>
+
 </div>
 
 
