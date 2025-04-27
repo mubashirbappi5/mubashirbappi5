@@ -73,17 +73,22 @@ using React, Next.js, and cutting-edge web technologies. 🚀</p>
 
 ### 
 
-<h2 align="left">📊 GitHub Stats </h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-### 
+###
 
 <div align="center">
- 
- <img src="https://nirzak-streak-stats.vercel.app?user=mubashirbappi5&theme=vue-dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&count_private=true&show_icons=true&bg_color=333333&title_color=FF914D&icon_color=FF914D&text_color=dddddd" alt="GitHub Stats" />
+
+  <br />
+  
+  <img src="https://nirzak-streak-stats.vercel.app?user=mubashirbappi5&theme=vue-dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=react&hide_border=false" height="150" alt="languages used" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=react-dark&hide_border=false&radius=16" height="300" alt="activity graph"/>
 </div>
+
 
 ###
 
