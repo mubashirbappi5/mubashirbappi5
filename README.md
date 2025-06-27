@@ -20,9 +20,9 @@
 ### 🧠 About Me
 
 - ✨ Breaking things since 2024... but fixing them like a pro!
-- 📚 Currently learning: **Backend Development (Node.js, MongoDB, Express)**  
-- 🔭 Working on: Level 2 of Programming Hero & personal projects  
-- 🎯 2025 Goal: Become a **Senior Front-end Developer** and succeed as a **freelancer**
+- 📚 Currently learning: **Backend Development (Node.js, PostgreSQL, Express)**  
+- 🔭 Working on: Level 2 of Programming Hero & full-stack projects  
+- 🎯 2025 Goal: Become a **Senior Front-end Developer** and thrive as a **freelancer**
 - 🎲 Fun Fact: I love creating and improving things—from pixels to products!
 
 ---
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" />
@@ -44,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" />
 </div>
 
@@ -72,6 +74,8 @@
 
 ---
 
+
+
 ### 🌐 Connect With Me
 
 <div align="left">
@@ -81,18 +85,9 @@
   <a href="https://web.facebook.com/mubashirbappi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="32" alt="Facebook" />
   </a>
-  <a href="mailto:mubashirbappi5@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="32" alt="Email" />
+  <a href="mailto:mubashirbappi@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="32" alt="Gmail" />
   </a>
 </div>
 
 ---
-
-### ⚡ Bonus
-
-- 🔗 **Portfolio Website:** [Coming Soon]
-- 📦 **Freelance Ready:** Available for front-end gigs on Fiverr, Upwork, and direct contracts!
-- 🎯 **Next Goals:** PostgreSQL, TypeScript Mastery, and Full-stack Projects!
-
----
-
