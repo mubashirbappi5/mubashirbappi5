@@ -2,14 +2,14 @@
   <img height="200" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png" alt="Banner" />
 </div>
 
-<h1 align="center">👋 Hey there, I'm Mubassir Bappi</h1>
-<h3 align="center">🧑‍💻 Front-end Developer | Aspiring Full-stack Engineer</h3>
+<h1 align="left">👋 Hey there, I'm Mubassir Bappi</h1>
+<h3 align="left">🧑‍💻 Front-end Developer | Aspiring Full-stack Engineer</h3>
 
-<p align="center">
+<p align="left">
   Passionate about crafting clean, performant web experiences using <strong>React</strong>, <strong>Next.js</strong>, and modern tools. I turn ideas into engaging digital products.
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mubashirbappi5&style=flat-square&color=4CAF50" alt="Profile Views" />
 </p>
 
