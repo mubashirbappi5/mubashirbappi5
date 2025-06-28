@@ -104,7 +104,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="38" alt="Facebook" />
   </a>
 <a href="mailto:mubashirbappi@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Gmail" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="38" alt="Gmail" />
 </a>
 </div>
 
