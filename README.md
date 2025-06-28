@@ -103,8 +103,8 @@
   <a href="https://web.facebook.com/mubashirbappi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="38" alt="Facebook" />
   </a>
-  <a href="mailto:mubashirbappi@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="38" alt="Gmail" />
-  </a>
+<a href="mailto:mubashirbappi@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Gmail" />
+</a>
 </div>
 
