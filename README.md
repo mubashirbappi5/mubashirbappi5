@@ -19,7 +19,7 @@
 
 - 🛠️ Breaking things since 2024... fixing them with joy!
 - 📚 Currently Learning: `Node.js`, `Express`, `PostgreSQL`
-- 🔥 Goal for 2025: Become a **Senior Front-end Developer** & **Top Freelancer**
+- 🔥 Goal for 2025: Become a **Senior Front-end Developer** 
 - 🌈 Fun Fact: I love turning pixels into purpose!
 
 ---
