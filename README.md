@@ -81,6 +81,15 @@
 </div>
 ---
 
+
+#### 💻 CMS & Website Builders
+<div align="left">
+  <img src="https://img.shields.io/badge/Wix-0d1117?style=for-the-badge&logo=wix&logoColor=FFB400" />
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+</div>
+---
+
+
 ### 📈 GitHub Stats
 
 <div align="center">
