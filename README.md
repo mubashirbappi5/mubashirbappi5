@@ -87,7 +87,7 @@
 ----
 
 
-#### 💻 CMS & Website Builders
+####  CMS & Website Builders
 <div align="left">
   <img src="https://img.shields.io/badge/Wix-0d1117?style=for-the-badge&logo=wix&logoColor=FFB400" />
   <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B" />
@@ -96,7 +96,7 @@
 ---
 
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
@@ -109,7 +109,7 @@
 
 ---
 
-### 🌍 Connect With Me
+###  Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank">
