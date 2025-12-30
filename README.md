@@ -15,7 +15,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
 - 🛠️ Breaking things since 2024... fixing them with joy!
 - 📚 Currently Learning: `Node.js`, `Express`, `PostgreSQL`
