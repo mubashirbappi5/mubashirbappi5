@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 🛠️ Breaking things since 2024... fixing them with joy!
+- 🛠️ Breaking things since 2025... fixing them with joy!
 - 📚 Currently Learning: `Node.js`, `Express`, `PostgreSQL`
 - 🔥 Goal for 2026: Become a **Full Developer** 
 - 🌈 Fun Fact: I love turning pixels into purpose!
