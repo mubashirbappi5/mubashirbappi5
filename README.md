@@ -115,15 +115,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirbappi5" alt="mubashirbappi5" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirbappi5&show_icons=true&locale=en&layout=compact" alt="mubashirbappi5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&locale=en" alt="mubashirbappi5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirbappi5&" alt="mubashirbappi5" /></p>
 
 ---
 
@@ -136,8 +128,6 @@
   <a href="https://web.facebook.com/mubashirbappi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="38" alt="Facebook" />
   </a>
-<a href="mailto:mubashirbappi@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="38" alt="Gmail" />
-</a>
+
 </div>
 
