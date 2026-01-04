@@ -2,7 +2,7 @@
   <img height="200" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png" alt="Banner" />
 </div>
 
-<h1 align="left">👋 Hey there, I'm Mubassir Bappi</h1>
+<h1 align="left">Hey there, I'm Mubassir Bappi</h1>
 <h3 align="left">🧑‍💻 Front-end Developer | Aspiring Full-stack Engineer</h3>
 
 <p align="left">
