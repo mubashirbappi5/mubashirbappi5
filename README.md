@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hey there, I'm Mubassir Bappi</h1>
-<h3 align="left">🧑‍💻 Front-end Developer | Aspiring Full-stack Engineer</h3>
+<h3 align="left"> Front-end Developer | Aspiring Full-stack Engineer</h3>
 
 <p align="left">
   Passionate about crafting clean, performant web experiences using <strong>React</strong>, <strong>Next.js</strong>, and modern tools. I turn ideas into engaging digital products.
