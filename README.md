@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="[https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png?raw=true](https://github.com/mubashirbappi5/mubashirbappi5/blob/main/ChatGPT%20Image%20Sep%2015%2C%202026%2C%2012_28_04%20PM.png)" alt="Mubassir Bappi - Web Developer Banner" />
+<img width="100%" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/ChatGPT%20Image%20Sep%2015%2C%202026%2C%2012_28_04%20PM.png" alt="Mubassir Bappi - Web Developer Banner" />
 
 <br/>
 
