@@ -1,165 +1,177 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/ChatGPT%20Image%20Sep%2015%2C%202026%2C%2012_28_04%20PM.png" alt="Mubassir Bappi - Web Developer Banner" />
+  <!-- ==================== BANNER ==================== -->
 
-<br/>
+  <img
+    width="100%"
+    src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/ChatGPT%20Image%20Sep%2015%2C%202026%2C%2012_28_04%20PM.png?raw=true"
+    alt="Mubassir Bappi - Full Stack Developer"
+  />
 
-# 👋 Hey, I'm Mubassir Bappi
+  <br/>
+  <br/>
 
-### Front-End Developer • Full-Stack Engineer • Web Developer
+  <!-- ==================== INTRO ==================== -->
 
-<p>
-I build modern, responsive, and high-performance web applications using
-<strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>,
-<strong>Node.js</strong>, and modern web technologies.
-</p>
+  <h1>Hey, I'm Mubassir Bappi 👋</h1>
 
-<p>
-Turning ideas into clean, scalable, and engaging digital experiences.
-</p>
+  <h3>Full-Stack Developer</h3>
 
-<a href="https://github.com/mubashirbappi5">
-  <img src="https://komarev.com/ghpvc/?username=mubashirbappi5&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</a>
+  <p>
+    Building clean, scalable & modern web experiences.
+  </p>
 
-<a href="https://github.com/mubashirbappi5?tab=followers">
-  <img src="https://img.shields.io/github/followers/mubashirbappi5?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</a>
+  <p>
+    <a href="https://www.linkedin.com/in/mubashir-bappi-developer/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+
+    <a href="https://github.com/mubashirbappi5">
+      <img
+        src="https://img.shields.io/github/followers/mubashirbappi5?style=flat-square&logo=github&label=Follow"
+        alt="GitHub Followers"
+      />
+    </a>
+
+    <img
+      src="https://komarev.com/ghpvc/?username=mubashirbappi5&style=flat-square&color=0e75b6&label=Profile+Views"
+      alt="Profile Views"
+    />
+  </p>
 
 </div>
 
----
+
+<br/>
+
+
+<!-- ==================== ABOUT ==================== -->
 
 ## 👨‍💻 About Me
 
-* 💻 Passionate about modern web development and clean UI
-* ⚛️ Building applications with **React, Next.js & TypeScript**
-* 🚀 Exploring scalable **full-stack application architecture**
-* 🧠 Continuously learning new technologies and development practices
-* 🛠️ Breaking things since **2025**... and enjoying fixing them
-* 🎯 **2026 Goal:** Become a stronger **Full-Stack Developer**
-* ✨ I love turning **pixels into purposeful digital experiences**
+```typescript
+const mubassir = {
+  role: "Full-Stack Developer",
 
----
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux"
+    ],
 
-## 🛠️ Tech Stack
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
 
-### 🎨 Frontend
+    database: [
+      "MongoDB",
+      "PostgreSQL",
+      "Firebase"
+    ]
+  },
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" alt="Frontend Technologies" />
-</p>
+  focus: [
+    "Modern Web Applications",
+    "Clean UI/UX",
+    "Scalable Systems",
+    "Digital Products"
+  ],
 
-### ⚙️ Backend & Database
+  currentlyLearning: "Advanced Full-Stack Architecture",
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&perline=8" alt="Backend Technologies" />
-</p>
+  goal: "Build products people enjoy using"
+};
+```
+<p> I enjoy transforming ideas into responsive, performant and user-friendly digital products — from polished interfaces to full-stack applications. </p> <p> My focus is writing clean code, building intuitive interfaces and creating web experiences that are both visually polished and technically scalable. </p> <br/> <!-- ==================== TECH STACK ==================== -->
+⚡ Tech Stack
+<div align="center">
+Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=880000" alt="Mongoose" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies" />
 
-### 🧰 Development Tools
+<br/> <br/>
+Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman&perline=8" alt="Development Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" alt="Backend and Database" />
 
-### ☁️ Deployment & Cloud
+<br/> <br/>
+Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&perline=8" alt="Deployment Platforms" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" alt="Development Tools" />
 
-### 🔄 CI/CD
+<br/> <br/>
+Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions&perline=8" alt="GitHub Actions" />
-</p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment Platforms" />
 
-### 🌐 CMS & Website Builders
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress&perline=8" alt="WordPress" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Wix-0d1117?style=for-the-badge&logo=wixstudio&logoColor=white" alt="Wix" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
+</div> <br/> <!-- ==================== SKILLS ==================== -->
+🧩 What I Work With
+<div align="center">
+Frontend	Backend	Database	Tools
+React	Node.js	MongoDB	Git
+Next.js	Express.js	PostgreSQL	GitHub
+TypeScript	REST API	Firebase	Figma
+Tailwind CSS	API Integration	Mongoose	Postman
+Redux Toolkit	Authentication		VS Code
+</div> <br/> <!-- ==================== CURRENT FOCUS ==================== -->
+🚀 Current Focus
+Building modern full-stack web applications
+Creating reusable React & Next.js components
+Developing scalable backend APIs
+Improving TypeScript development workflows
+Learning advanced application architecture
+Creating clean and responsive UI/UX
+Exploring modern deployment and CI/CD workflows
+<br/> <!-- ==================== GITHUB STATS ==================== -->
+📊 GitHub Analytics
 <div align="center">
 
-<a href="https://github.com/mubashirbappi5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Mubassir Bappi GitHub Stats" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mubassir Bappi GitHub Stats" />
 
-<a href="https://github.com/mubashirbappi5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Mubassir Bappi Top Languages" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Mubassir Bappi Top Languages" />
 
-</div>
+</div> <br/> <!-- ==================== STREAK ==================== --> <div align="center">
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=transparent&hide_border=true" alt="Mubassir Bappi GitHub Streak" />
 
+</div> <br/> <!-- ==================== CONTRIBUTION ==================== -->
+📈 Contribution Activity
 <div align="center">
 
-<a href="https://github.com/mubashirbappi5">
-  <img src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=tokyonight&hide_border=true" alt="Mubassir Bappi GitHub Streak" />
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=github-compact&hide_border=true&area=true" alt="Mubassir Bappi Contribution Graph" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
+</div> <br/> <!-- ==================== CMS ==================== -->
+🌐 CMS & Website Platforms
 <div align="center">
 
-<a href="https://github.com/mubashirbappi5">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=tokyo-night&hide_border=true&area=true" alt="Mubassir Bappi Contribution Graph" />
-</a>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 
-</div>
+<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wixstudio&logoColor=white" alt="Wix" />
 
----
-
-## 🏆 GitHub Achievements
-
+</div> <br/> <!-- ==================== DEVELOPMENT PHILOSOPHY ==================== -->
+💡 Development Philosophy
 <div align="center">
+Think → Design → Build → Improve
 
-<img src="https://github-profile-trophy.vercel.app/?username=mubashirbappi5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Mubassir Bappi GitHub Trophies" />
+Clean code.
+Simple interfaces.
+Scalable architecture.
+Better user experiences.
 
-</div>
-
----
-
-## 🤝 Connect With Me
-
+</div> <br/> <!-- ==================== CONNECT ==================== -->
+🤝 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Mubassir_Bappi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/mubashirbappi5" target="_blank"> <img src="https://img.shields.io/badge/GitHub-mubashirbappi5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://web.facebook.com/mubashirbappi/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Mubassir_Bappi-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> </div> <br/> <br/> <!-- ==================== FOOTER ==================== -->
 <div align="center">
+Code · Create · Improve
+<sub> Building better digital experiences, one commit at a time. </sub> <br/> <br/>
 
-<a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mubassir_Bappi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://web.facebook.com/mubashirbappi/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Mubassir_Bappi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-
-<a href="https://github.com/mubashirbappi5" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-mubashirbappi5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Code. Create. Improve. Repeat.
-
-<sub>Thanks for visiting my GitHub profile! 🚀</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
