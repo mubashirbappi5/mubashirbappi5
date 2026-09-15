@@ -1,131 +1,165 @@
 <div align="center">
-  <img height="200" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png" alt="Banner" />
-</div>
 
-<h1 align="left">Hey there, I'm Mubassir Bappi</h1>
-<h3 align="left"> Front-end Developer |  Full-stack Engineer</h3>
+<img width="100%" src="https://github.com/mubashirbappi5/mubashirbappi5/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner%20(4).png?raw=true" alt="Mubassir Bappi - Web Developer Banner" />
 
-<p align="left">
-  Passionate about crafting clean, performant web experiences using <strong>React</strong>, <strong>Next.js</strong>, and modern tools. I turn ideas into engaging digital products.
+<br/>
+
+# 👋 Hey, I'm Mubassir Bappi
+
+### Front-End Developer • Full-Stack Engineer • Web Developer
+
+<p>
+I build modern, responsive, and high-performance web applications using
+<strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>,
+<strong>Node.js</strong>, and modern web technologies.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mubashirbappi5&style=flat-square&color=4CAF50" alt="Profile Views" />
+<p>
+Turning ideas into clean, scalable, and engaging digital experiences.
+</p>
+
+<a href="https://github.com/mubashirbappi5">
+  <img src="https://komarev.com/ghpvc/?username=mubashirbappi5&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</a>
+
+<a href="https://github.com/mubashirbappi5?tab=followers">
+  <img src="https://img.shields.io/github/followers/mubashirbappi5?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 Passionate about modern web development and clean UI
+* ⚛️ Building applications with **React, Next.js & TypeScript**
+* 🚀 Exploring scalable **full-stack application architecture**
+* 🧠 Continuously learning new technologies and development practices
+* 🛠️ Breaking things since **2025**... and enjoying fixing them
+* 🎯 **2026 Goal:** Become a stronger **Full-Stack Developer**
+* ✨ I love turning **pixels into purposeful digital experiences**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&perline=8" alt="Backend Technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=880000" alt="Mongoose" />
+</p>
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman&perline=8" alt="Development Tools" />
+</p>
+
+### ☁️ Deployment & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&perline=8" alt="Deployment Platforms" />
+</p>
+
+### 🔄 CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions&perline=8" alt="GitHub Actions" />
+</p>
+
+### 🌐 CMS & Website Builders
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=8" alt="WordPress" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wix-0d1117?style=for-the-badge&logo=wixstudio&logoColor=white" alt="Wix" />
 </p>
 
 ---
 
-### About Me
-
-- 🛠️ Breaking things since 2025... fixing them with joy!
-- 🔥 Goal for 2026: Become a **Full Developer** 
-- 🌈 Fun Fact: I love turning pixels into purpose!
-
----
-
-### ⚒️ Tech Stack
-
-#### 🌐 Frontend
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E44D26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=264de4" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
-
-</div>
-
-#### 🧩 Backend & Database
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> 
-  <img src="https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=880000" />
-</div>
-
-#### ⚙️ Tools & Platforms
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/NPM-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</div>
-
----
-
-### ☁️ Deployment Platforms
-<div align="left">
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/Firebase_Hosting-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-</div>
-
----
-
-### 🔁 CI/CD & DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel_CI-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
----
-
-### ✅ Testing & Validation
-<div align="left">
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
- 
-</div>
-
-----
-
-
-####  CMS & Website Builders
-<div align="left">
-  <img src="https://img.shields.io/badge/Wix-0d1117?style=for-the-badge&logo=wix&logoColor=FFB400" />
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-</div>
-
----
-
-
-### GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=tokyo-night&hide_border=true" height="280" />
+
+<a href="https://github.com/mubashirbappi5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubashirbappi5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Mubassir Bappi GitHub Stats" />
+</a>
+
+<a href="https://github.com/mubashirbappi5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirbappi5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Mubassir Bappi Top Languages" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/mubashirbappi5">
+  <img src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=tokyonight&hide_border=true" alt="Mubassir Bappi GitHub Streak" />
+</a>
+
 </div>
 
 ---
 
+## 📈 Contribution Activity
 
-## GitHub Trophies
-<h3 align="center">A passionate Web developer </h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirbappi5" alt="mubashirbappi5" /></a> </p>
-
-
----
-
-###  Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" alt="LinkedIn" />
-  </a>
-  <a href="https://web.facebook.com/mubashirbappi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="38" alt="Facebook" />
-  </a>
+<a href="https://github.com/mubashirbappi5">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirbappi5&theme=tokyo-night&hide_border=true&area=true" alt="Mubassir Bappi Contribution Graph" />
+</a>
 
 </div>
 
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mubashirbappi5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Mubassir Bappi GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mubassir_Bappi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://web.facebook.com/mubashirbappi/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Mubassir_Bappi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://github.com/mubashirbappi5" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-mubashirbappi5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code. Create. Improve. Repeat.
+
+<sub>Thanks for visiting my GitHub profile! 🚀</sub>
+
+</div>
