@@ -1,8 +1,5 @@
-<div align="center">
 
-<!-- ===================================================== -->
-<!--                       BANNER                          -->
-<!-- ===================================================== -->
+<div align="center">
 
 <img
   width="100%"
@@ -10,31 +7,31 @@
   alt="Mubassir Bappi - Full-Stack Developer"
 />
 
-<br/><br/>
+<br/>
 
-# Hi, I'm Mubassir Bappi 👋
+# Hey, I'm Mubassir Bappi
 
-### Full-Stack Developer · React · Next.js · Node.js
+### Full-Stack Developer
 
-Building clean, scalable, performant, and user-focused digital products.
+I build modern web applications using React, Next.js, Node.js, and TypeScript.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank">
+<a href="https://www.linkedin.com/in/mubashir-bappi-developer/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://github.com/mubashirbappi5" target="_blank">
+<a href="https://github.com/mubashirbappi5">
   <img
     src="https://img.shields.io/github/followers/mubashirbappi5?style=flat-square&logo=github&label=Follow"
     alt="GitHub Followers"
   />
 </a>
 
-<a href="https://mubashirbappi.netlify.app" target="_blank">
+<a href="https://mubashirbappi.netlify.app">
   <img
     src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white"
     alt="Portfolio"
@@ -50,221 +47,171 @@ Building clean, scalable, performant, and user-focused digital products.
 
 <br/>
 
----
+## About Me
 
-## 👨‍💻 About Me
+I'm a full-stack developer who enjoys building clean and useful web applications.
 
-I'm a **Full-Stack Developer** focused on building modern web applications with clean user interfaces, scalable architecture, and maintainable code.
+Most of my work is around React and Next.js on the frontend, with Node.js and Express on the backend. I also work with MongoDB, PostgreSQL, Firebase, REST APIs, authentication, and deployment.
 
-I enjoy transforming ideas into real digital products — from responsive frontend experiences to APIs, authentication systems, databases, dashboards, and production-ready applications.
+I care about keeping code understandable, interfaces responsive, and applications easy to maintain.
 
-
-const mubassir = {
-  role: "Full-Stack Developer",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS",
-    "Redux Toolkit",
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Authentication",
-  ],
-
-  databases: [
-    "MongoDB",
-    "PostgreSQL",
-    "Firebase",
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "Figma",
-  ],
-
-  focus: [
-    "Modern Web Applications",
-    "Clean UI/UX",
-    "Scalable Systems",
-    "Reusable Components",
-    "Digital Products",
-  ],
-
-  currentlyLearning: [
-    "Advanced Full-Stack Architecture",
-    "CI/CD",
-    "Application Scalability",
-  ],
-
-  goal: "Build products people enjoy using.",
-};
+Currently, I'm spending more time improving my TypeScript skills, backend architecture, and deployment workflow.
 
 <br/>
 
-⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-🎨 Frontend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Redux" />
-
-<br/><br/>
-
-⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux"
+  alt="Frontend Technologies"
+/>
 
 <br/><br/>
 
-🗄️ Database & Services
+### Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" alt="MongoDB, PostgreSQL and Firebase" />
-
-<br/><br/>
-
-🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" alt="Git, GitHub, VS Code, npm, Figma and Postman" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express"
+  alt="Backend Technologies"
+/>
 
 <br/><br/>
 
-☁️ Deployment
+### Database
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Vercel, Netlify and Firebase" />
+<img
+  src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"
+  alt="Database Technologies"
+/>
+
+<br/><br/>
+
+### Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman"
+  alt="Development Tools"
+/>
+
+<br/><br/>
+
+### Deployment
+
+<img
+  src="https://skillicons.dev/icons?i=vercel,netlify,firebase"
+  alt="Deployment Platforms"
+/>
 
 </div>
 
 <br/>
 
-🧩 What I Work With
-Area	Technologies
-Frontend	React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux Toolkit
-Backend	Node.js, Express.js, REST APIs, Authentication, API Integration
-Database	MongoDB, PostgreSQL, Firebase, Mongoose
-Tools	Git, GitHub, VS Code, Postman, Figma, npm
-Deployment	Vercel, Netlify, Firebase
-CMS	WordPress, Wix
+## What I Work With
+
+| Frontend | Backend | Database | Tools |
+| --- | --- | --- | --- |
+| React | Node.js | MongoDB | Git |
+| Next.js | Express.js | PostgreSQL | GitHub |
+| TypeScript | REST APIs | Firebase | Postman |
+| Tailwind CSS | Authentication | Mongoose | Figma |
+| Redux Toolkit | API Integration | — | VS Code |
 
 <br/>
 
-🚀 Current Focus
-Building production-ready full-stack web applications
-Creating reusable React and Next.js components
-Developing scalable REST APIs
-Improving TypeScript development workflows
-Designing clean and responsive interfaces
-Learning advanced application architecture
-Exploring CI/CD and modern deployment workflows
-Improving performance, accessibility, and maintainability
+## Currently Working On
+
+- Building full-stack applications with React and Next.js
+- Writing reusable components
+- Building REST APIs with Node.js and Express
+- Improving TypeScript workflows
+- Learning better application architecture
+- Improving responsive UI development
+- Learning more about CI/CD and deployment
 
 <br/>
 
-🏗️ Featured Projects
-🏢 Skyline Haven
-
-Full-stack apartment and rental management application with authentication, role-based dashboards, payments, protected routes, and responsive UI.
-
-Frontend:
-github.com/mubashirbappi5/Skyline-Haven-BMS---client-side
-
-Backend:
-github.com/mubashirbappi5/Skyline-Haven-BMS---Server-
-
-<br/>
-
-🏷️ Discount PRO
-
-A web application designed to help users discover discount coupons and offers from different e-commerce platforms.
-
-View Repository →
-
-<br/>
-
-🤝 Volunteer Hub
-
-A platform where users can create, manage, discover, and participate in volunteer opportunities.
-
-View Repository →
-
-<br/>
-
-🏠 EstateAtlas
-
-A modern web project focused on property and real-estate experiences.
-
-View Repository →
-
-<br/>
-
-🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=transparent&hide_border=true" alt="Mubassir Bappi GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=mubashirbappi5&theme=transparent&hide_border=true"
+  alt="Mubassir Bappi GitHub Streak"
+/>
 
 </div>
 
 <br/>
 
-🌐 CMS & Website Platforms
+## CMS & Platforms
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img
+  src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
+  alt="WordPress"
+/>
 
-<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wixstudio&logoColor=white" alt="Wix" />
+<img
+  src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wixstudio&logoColor=white"
+  alt="Wix"
+/>
 
 </div>
 
 <br/>
 
-💡 Development Philosophy
+## Connect With Me
 
 <div align="center">
 
-Think → Design → Build → Improve
+<a href="https://www.linkedin.com/in/mubashir-bappi-developer/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Mubassir_Bappi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-Clean Code · Simple Interfaces · Scalable Architecture · Better User Experiences
+<a href="https://github.com/mubashirbappi5">
+  <img
+    src="https://img.shields.io/badge/GitHub-mubashirbappi5-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://mubashirbappi.netlify.app">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://web.facebook.com/mubashirbappi/">
+  <img
+    src="https://img.shields.io/badge/Facebook-Mubassir_Bappi-0866FF?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
 
 </div>
 
 <br/>
 
-🤝 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mubashir-bappi-developer/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Mubassir_Bappi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-
-<a href="https://github.com/mubashirbappi5" target="_blank"> <img src="https://img.shields.io/badge/GitHub-mubashirbappi5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
-
-<a href="https://mubashirbappi.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a>
-
-<a href="https://web.facebook.com/mubashirbappi/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Mubassir_Bappi-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
-
-</div>
+<sub>Thanks for visiting my profile.</sub>
 
 <br/><br/>
 
-<div align="center">
-
-Code · Create · Improve 🚀
-
-<sub> Building better digital experiences, one commit at a time. </sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" alt="Footer Decoration" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
+```
